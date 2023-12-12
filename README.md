@@ -1,4 +1,5 @@
-#AutoMedia: a basic Social Media Automator written in Python
+# AutoMedia: a basic Social Media Automator written in Python
+
 A Python Script that can run an Instagram page on any topic for you automatically by reposting Reddit stuff.
 
 To use this script, download it and update the required fields. You will need to add a reddit API key and the subreddit from where you want your posts to be sourced. 
